@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace ObjectValues
+namespace Models
 {
     public class ContatoBanco
     {

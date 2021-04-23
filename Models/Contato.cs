@@ -1,4 +1,6 @@
-namespace ObjectValues
+using ObjectValues;
+
+namespace Models
 {
     public class Contato
     {

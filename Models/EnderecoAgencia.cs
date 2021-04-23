@@ -1,4 +1,4 @@
-namespace ObjectValues
+namespace Models
 {
     public class EnderecoAgencia
     {
