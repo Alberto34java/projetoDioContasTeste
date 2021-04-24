@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Models;
 
 namespace data
 {
@@ -9,5 +10,7 @@ namespace data
         {
             
         }
+
+        public DbSet<BancoSA> BancoSAs{ get; set;}
     }
 }
